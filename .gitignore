@@ -1,0 +1,7 @@
+.venv/
+credentials/
+
+terraform/builds/
+terraform/.terraform.lock.hcl
+**/*.tfstate*
+**/.terraform/
